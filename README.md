@@ -2,6 +2,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/62gcky08onmr69x8/branch/master?svg=true)](https://ci.appveyor.com/project/thibautjombart/outbreaks/branch/master)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/outbreaks)](https://cran.r-project.org/package=outbreaks)
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/outbreaks)](https://cran.r-project.org/package=outbreaks)
+[![Downloads from Rstudio mirror](https://cranlogs.r-pkg.org/badges/grand-total/outbreaks)](http://www.r-pkg.org/pkg/outbreaks)
 
 <br>
 
@@ -32,6 +33,7 @@ data(package="outbreaks")
 |measles_hagelloch_1861           |Measles in Hagelloch, Germany, 1861                        |
 |mers_korea_2015                  |Middle East respiratory syndrome in South Korea, 2015      |
 |norovirus_derbyshire_2001_school |Norovirus in a primary school in Derbyshire, England, 2001 |
+|rabies_car_2003                  |Dog Rabies in Central African Republic, 2003-2012          |
 |s_enteritidis_pt59               |Salmonella Enteritidis PT59 outbreak                       |
 |sars_canada_2003                 |Severe Acute Respiratory Syndrome in Canada, 2003          |
 |smallpox_abakaliki_1967          |Smallpox in Abakaliki, Nigeria, 1967                       |

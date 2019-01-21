@@ -1,3 +1,24 @@
+outbreaks 1.5.0 (2018-12-15)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `nipah_malaysia`: human cases of Nipah virus in Malaysia and Singapore, 1997-1999; data are weekly case counts, stratified by state / country
+
+
+outbreaks 1.4.0
+===============
+
+### NEW FEATURES
+
+* `rabies_car_2003`: dog rabies in Central African Republic, 2003-2012; data
+comprise dates and locations of the cases, as well as viral sequences of the
+pathogen for most cases
+
+
+
 outbreaks 1.3.0 (2017-05-13)
 ==================
 
@@ -5,7 +26,7 @@ outbreaks 1.3.0 (2017-05-13)
 
 One new dataset added:<br>
 
-* s_enteritidis_pt59 : Distribution network and genetic clusters of a food-borne
+* s_enteritidis_pt59: Distribution network and genetic clusters of a food-borne
      outbreak of Salmonella Enteritidis PT59 (98 cases)
 
 
