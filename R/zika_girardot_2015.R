@@ -24,7 +24,7 @@
 #'
 #' @author Data from Rojas et al. (2016), provided by Diana P. Rojas
 #' (\email{dprojas@@epi.ufl.edu}).  Transfer to R and documentation by
-#' Finlay Campbell (\email{f.campbell15@@imperial.ac.uk}).
+#' Finlay Campbell (\email{finlaycampbell93@@gmail.com}).
 #'
 #' @source Rojas et al. (2016)
 #'
@@ -34,10 +34,10 @@
 #' Eyrolle-Guignot, D. (2016). The epidemiology and transmissibility of Zika
 #' virus in Girardot and San Andres island, Colombia, September 2015 to January
 #' 2016. Eurosurveillance, 21(28), 30283.
-#' http://doi.org/10.2807/1560-7917.ES.2016.21.28.30283
+#' \url{https://doi.org/10.2807/1560-7917.ES.2016.21.28.30283}
 #'
 #' These data were provided under a Creative Commons Attribution (CC BY 4.0)
-#' Licence (\url{http://creativecommons.org/licenses/by/4.0/}).
+#' Licence (\url{https://creativecommons.org/licenses/by/4.0/}).
 #'
 #' @examples
 #' ## show first few days of Zika incidence

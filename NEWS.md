@@ -1,3 +1,42 @@
+outbreaks 1.9.0 (2020-09-22)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `covid19_england_nhscalls_2020`: a dataset of the daily numbers of reports on
+  potential COVID-19 cases reported in England through the NHS 111 calls, 999 calls, and 111-online systems.
+
+outbreaks 1.8.0 (2020-02-13)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `sarscov2_who_2019`: a dataset of the compiled World Health Organization SItuation Reports for the COVID-19/SARS-CoV-2 outbreak including worldwide confirmed cases and deaths. 
+
+outbreaks 1.7.0 (2019-12-16)
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `ebola_sierraleone_2014`: a dataset of confirmed and suspected cases of Ebola
+  haemorrhagic fever in Sierra Leone from 2014 to 2015
+
+==================
+
+### NEW FEATURES
+
+One new dataset added:<br>
+
+* `varicella_sim_berlin`: a simulated dataset of an outbreak of Varicella in
+  german centers for foreigners
+
+
 outbreaks 1.5.0 (2018-12-15)
 ==================
 
@@ -5,7 +44,8 @@ outbreaks 1.5.0 (2018-12-15)
 
 One new dataset added:<br>
 
-* `nipah_malaysia`: human cases of Nipah virus in Malaysia and Singapore, 1997-1999; data are weekly case counts, stratified by state / country
+* `nipah_malaysia`: human cases of Nipah virus in Malaysia and Singapore,
+  1997-1999; data are weekly case counts, stratified by state / country
 
 
 outbreaks 1.4.0
@@ -26,7 +66,7 @@ outbreaks 1.3.0 (2017-05-13)
 
 One new dataset added:<br>
 
-* s_enteritidis_pt59: Distribution network and genetic clusters of a food-borne
+* `s_enteritidis_pt59`: Distribution network and genetic clusters of a food-borne
      outbreak of Salmonella Enteritidis PT59 (98 cases)
 
 

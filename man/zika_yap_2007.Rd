@@ -4,7 +4,8 @@
 \name{zika_yap_2007}
 \alias{zika_yap_2007}
 \title{Zika on the Yap Main Islands, Micronesia, 2007}
-\format{{
+\format{
+{
 A data frame with 29 rows and 3 columns
 \describe{
   \item{onset_date}{Date}
@@ -18,7 +19,8 @@ classified as probable (59) or confirmed (49) in a population of 7391. Cases
 were identified by a combination of prospective and retrospective
 surveillance at all health centres on Yap.
 
-}}
+}
+}
 \source{
 Funk et al. (2016)
 }
@@ -41,6 +43,6 @@ e0005173. http://doi.org/10.1371/journal.pntd.0005173
 }
 \author{
 Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
-Transfer to R and documentation by Finlay Campbell (\email{f.campbell15@imperial.ac.uk}).
+Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@gmail.com}).
 }
 \keyword{datasets}

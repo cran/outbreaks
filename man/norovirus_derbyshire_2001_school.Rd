@@ -4,7 +4,8 @@
 \name{norovirus_derbyshire_2001_school}
 \alias{norovirus_derbyshire_2001_school}
 \title{Norovirus in a primary school in Derbyshire, England, 2001}
-\format{{
+\format{
+{
 A data frame with 492 rows and 5 columns
 \describe{
   \item{class}{School class of the child}
@@ -20,7 +21,8 @@ The school was cleaned on days 13 and 14, and on days 20 and 21, both of which w
 and the school was shut on days 18 and 19. Following the second cleaning, there were no further
 absences, although three children reported symptoms on day 22, the last day of the outbreak.
 
-}}
+}
+}
 \source{
 O'Neill and Marks (2005)
 }
@@ -43,6 +45,6 @@ in an outbreak of Norovirus. Statistics in Medicine, 24(13), 2011–24.
 \author{
 Data from O'Neill and Marks (2005), provided by Philip O'Neill.
 Transfer to R and documentation by Simon Frost (\email{sdwfrost@gmail.com}
-and Finlay Campbell (\email{f.campbell15@imperial.ac.uk})).
+and Finlay Campbell (\email{finlaycampbell93@gmail.com})).
 }
 \keyword{datasets}

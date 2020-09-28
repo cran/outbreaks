@@ -4,7 +4,8 @@
 \name{dengue_fais_2011}
 \alias{dengue_fais_2011}
 \title{Dengue on the island of Fais, Micronesia, 2011}
-\format{{
+\format{
+{
 A data frame with 57 rows and 3 columns
 \describe{
   \item{onset_date}{Date}
@@ -19,7 +20,8 @@ the index case. The population of Fais is concentrated in a single population
 centre, and is thought to have been immunologically naive at the time of
 infection.
 
-}}
+}
+}
 \source{
 Funk et al. (2016)
 }
@@ -42,6 +44,6 @@ e0005173. http://doi.org/10.1371/journal.pntd.0005173
 }
 \author{
 Data from Funk et al. (2016), provided by Sebastian Funk (github.com/sbnfunk).
-Transfer to R and documentation by Finlay Campbell (\email{f.campbell15@imperial.ac.uk}).
+Transfer to R and documentation by Finlay Campbell (\email{finlaycampbell93@gmail.com}).
 }
 \keyword{datasets}
